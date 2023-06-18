@@ -1,1 +1,0 @@
-Portfolio | New Contact Form Entry ({{ datetime_received|date:"D, j M Y" }})
